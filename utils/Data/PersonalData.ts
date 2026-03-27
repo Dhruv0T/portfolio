@@ -1,0 +1,25 @@
+export const personalData = {
+  name: "Dhruv Torney",
+  profile: "/pic3.jpg",
+  designation: "High School Student",
+  designationAlternateWords: [
+    "Student.",
+    "Developer.",
+    "AI Builder.",
+    "Engineer.",
+    "Innovator.",
+  ],
+  description:
+    "I’m Dhruv Torney, a high school student and developer focused on practical AI systems. My recent work centers on computer vision and real-time applications, including surveillance intelligence pipelines with YOLO detection, Kalman filtering, parallel processing, and AI-assisted reporting. I enjoy building robust full-stack products that are fast, scalable, and user-focused.",
+  email: "torneydhruv@gmail.com",
+  address: "California, USA",
+  github: "https://github.com/dhruv0t",
+  facebook: "https://github.com/Dhruv0T",
+  Instagram: "https://github.com/Dhruv0T",
+  linkedIn: "https://www.linkedin.com/in/dhruvto/",
+  twitter: "https://github.com/Dhruv0T",
+  stackOverflow: "https://github.com/Dhruv0T",
+  devUsername: "Dhruv0T",
+  leetcode: "https://github.com/Dhruv0T",
+  resume: "/resume.pdf",
+};
