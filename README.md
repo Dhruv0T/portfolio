@@ -4,9 +4,6 @@ Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS*
 
 ---
 
-## 📸 Screenshot
-
-## ![Homepage of Dhruv Torney’s Portfolio](public/Website-overview.png)
 
 #
 
